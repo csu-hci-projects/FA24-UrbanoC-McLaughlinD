@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/declanjm/Documents/Unreal Projects/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/declanjm/Documents/Unreal Projects/MyProject/Content/UI/Main_Menu.uasset",
+				"C:/Users/declanjm/Documents/Unreal Projects/MyProject/Content/Levels/Main_Menu_Map.umap",
+				"C:/Users/declanjm/Documents/Unreal Projects/MyProject/Content/Levels/Main_Menu.umap",
+				"C:/Users/declanjm/Documents/Unreal Projects/MyProject/Content/Levels/Main_Menu/Main_Menu.umap",
+				"C:/Users/declanjm/Documents/Unreal Projects/MyProject/Content/Levels/Main_Menu/Menu_Gamemode.uasset",
+				"C:/Users/declanjm/Documents/Unreal Projects/MyProject/Content/Levels/Level1/Level1.umap",
+				"C:/Users/declanjm/Documents/Unreal Projects/MyProject/Content/Levels/Level2/Level2.umap"
+			]
+		}
+	]
+}
