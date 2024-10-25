@@ -2259,3 +2259,483 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2024.10.25-16.27.20:770][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.10.25-16.27.20:773][990]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
 [2024.10.25-16.27.20:823][992]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2024.10.25-16.28.15:147][454]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/AmmoCount.AmmoCount
+[2024.10.25-16.28.15:147][454]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-16.28.15:148][454]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-16.28.15:156][454]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-16.28.15:156][454]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-16.28.44:137][972]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-16.28.44:164][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AmmoCount" FILE="../../../../../../Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Content/UI/AmmoCount.uasset" SILENT=true
+[2024.10.25-16.28.44:169][972]LogSavePackage: Moving output files for package: /Game/UI/AmmoCount
+[2024.10.25-16.28.44:169][972]LogSavePackage: Moving '../../../../../../Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Saved/AmmoCountE65E73A046A27EFBAFD8A6934A8D47BA.tmp' to '../../../../../../Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Content/UI/AmmoCount.uasset'
+[2024.10.25-16.28.44:175][972]LogFileHelpers: InternalPromptForCheckoutAndSave took 37 ms (total: 179 ms)
+[2024.10.25-16.28.44:176][972]AssetCheck: New page: Asset Save: AmmoCount
+[2024.10.25-16.28.44:176][972]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/AmmoCount.AmmoCount
+[2024.10.25-16.28.44:813][ 40]BlueprintLog: New page: Compile AmmoCount
+[2024.10.25-16.28.44:834][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.10.25-16.28.45:835][135]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-16.28.45:835][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-16.28.45:843][135]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-16.28.45:843][135]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-16.28.46:701][184]LogSlate: Window 'Main_Menu' being destroyed
+[2024.10.25-16.28.46:713][184]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-16.28.46:713][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-16.28.46:720][184]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-16.28.46:720][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-16.28.47:521][270]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.25-16.28.47:527][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.25-16.28.47:527][270]PIE: New page: PIE session: Main_Menu (Oct 25, 2024, 4:28:47 AM)
+[2024.10.25-16.28.47:564][270]LogPlayLevel: Display: Creating online subsystem for client :Context_30
+[2024.10.25-16.28.47:566][270]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.10.25-16.28.47:573][271]LogPlayLevel: Creating play world package: /Game/Levels/Main_Menu/UEDPIE_0_Main_Menu
+[2024.10.25-16.28.47:575][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001123s)
+[2024.10.25-16.28.47:575][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main_Menu/Main_Menu.Main_Menu to /Game/Levels/Main_Menu/UEDPIE_0_Main_Menu.Main_Menu (0.001166s)
+[2024.10.25-16.28.47:588][271]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.10.25-16.28.47:595][271]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-16.28.47:595][271]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-16.28.47:595][271]LogAIModule: Creating AISystem for world Main_Menu
+[2024.10.25-16.28.47:596][271]LogPlayLevel: PIE: World Init took: (0.001335s)
+[2024.10.25-16.28.47:596][271]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.10.25-16.28.47:596][271]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-16.28.47:596][271]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-16.28.47:596][271]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-16.28.47:596][271]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-16.28.47:596][271]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.25-16.28.47:596][271]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-16.28.47:596][271]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.25-16.28.47:596][271]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-16.28.47:597][271]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-16.28.47:597][271]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-16.28.47:597][271]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-16.28.47:599][271]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-16.28.47:617][271]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.10.25-16.28.47:617][271]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-16.28.47:618][271]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-16.28.47:618][271]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-16.28.47:618][271]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.10.25-16.28.47:618][271]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2024.10.25-16.28.47:620][271]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.10.25-16.28.47:620][271]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.10.25-16.28.47:620][271]LogInit: FAudioDevice initialized with ID 17.
+[2024.10.25-16.28.47:620][271]LogAudio: Display: Audio Device (ID: 17) registered with world 'Main_Menu'.
+[2024.10.25-16.28.47:620][271]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.10.25-16.28.47:622][271]LogLoad: Game class is 'Menu_Gamemode_C'
+[2024.10.25-16.28.47:623][271]LogWorld: Bringing World /Game/Levels/Main_Menu/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2024.10.25-10.28.47
+[2024.10.25-16.28.47:623][271]LogWorld: Bringing up level for play took: 0.000272
+[2024.10.25-16.28.47:625][271]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.10.25-16.28.47:625][271]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.10.25-16.28.47:625][271]PIE: Server logged in
+[2024.10.25-16.28.47:627][271]PIE: Play in editor total start time 0.099 seconds.
+[2024.10.25-16.28.47:952][302]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.10.25-16.28.47:952][302]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.10.25-16.28.47:952][302]LogNet: Browse: /Game/Levels/Level1/Level1
+[2024.10.25-16.28.47:952][302]LogLoad: LoadMap: /Game/Levels/Level1/Level1
+[2024.10.25-16.28.47:952][302]LogWorld: BeginTearingDown for /Game/Levels/Main_Menu/UEDPIE_0_Main_Menu
+[2024.10.25-16.28.47:953][302]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-16.28.47:953][302]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-16.28.47:995][302]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.25-16.28.47:997][302]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.10.25-16.28.48:003][302]LogAudio: Display: Audio Device (ID: 17) registered with world 'Level1'.
+[2024.10.25-16.28.48:003][302]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-16.28.48:003][302]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-16.28.48:004][302]LogAIModule: Creating AISystem for world Level1
+[2024.10.25-16.28.48:004][302]LogPlayLevel: PIE: World Init took: (0.001124s)
+[2024.10.25-16.28.48:004][302]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.25-16.28.48:007][302]LogWorld: Bringing World /Game/Levels/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.10.25-10.28.48
+[2024.10.25-16.28.48:007][302]LogWorld: Bringing up level for play took: 0.002051
+[2024.10.25-16.28.48:008][302]LogLoad: Took 0.056628 seconds to LoadMap(/Game/Levels/Level1/Level1)
+[2024.10.25-16.28.57:864][234]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.28.58:019][243]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.28.58:328][261]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.28.58:480][269]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.28.58:636][278]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.28.58:777][286]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.28.58:942][295]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.28.59:069][302]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.28.59:237][311]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.28.59:358][317]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.28.59:527][326]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.28.59:694][335]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.28.59:830][342]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.28.59:961][349]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.29.00:058][354]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.29.00:196][361]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.29.00:342][368]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.29.00:460][374]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.29.00:576][380]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.29.00:675][385]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.29.00:814][392]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.29.00:932][398]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.29.01:014][402]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.29.01:114][407]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.29.01:289][416]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.29.01:416][422]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.29.01:523][427]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.29.01:640][433]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.29.01:766][439]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.29.01:878][444]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.29.01:990][449]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-16.29.02:872][487]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] RELOADING
+[2024.10.25-16.29.05:899][617]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] RELOADING
+[2024.10.25-16.29.07:104][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-16.29.07:105][663]LogWorld: BeginTearingDown for /Game/Levels/Level1/UEDPIE_0_Level1
+[2024.10.25-16.29.07:105][663]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-16.29.07:105][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-16.29.07:110][663]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-16.29.07:115][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-16.29.07:126][663]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-16.29.07:126][663]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.10.25-16.29.07:126][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.10.25-16.29.07:128][663]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.10.25-16.29.07:139][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.10.25-16.29.07:170][664]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.10.25-16.29.13:292][389]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/AmmoCount.AmmoCount
+[2024.10.25-16.29.13:292][389]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-16.29.13:292][389]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-16.29.13:297][389]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-16.29.13:297][389]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-16.29.32:223][868]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-16.29.33:628][962]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-16.29.33:658][962]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AmmoCount" FILE="../../../../../../Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Content/UI/AmmoCount.uasset" SILENT=true
+[2024.10.25-16.29.33:664][962]LogSavePackage: Moving output files for package: /Game/UI/AmmoCount
+[2024.10.25-16.29.33:664][962]LogSavePackage: Moving '../../../../../../Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Saved/AmmoCountBD39667246F54D3BA233149F29D15249.tmp' to '../../../../../../Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Content/UI/AmmoCount.uasset'
+[2024.10.25-16.29.33:669][962]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 220 ms)
+[2024.10.25-16.29.33:670][962]AssetCheck: New page: Asset Save: AmmoCount
+[2024.10.25-16.29.33:670][962]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/AmmoCount.AmmoCount
+[2024.10.25-16.29.34:904][ 37]BlueprintLog: New page: Compile AmmoCount
+[2024.10.25-16.29.34:941][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.10.25-16.31.42:045][448]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.10.25-16.31.42:047][448]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Main_Menu/Main_Menu' took 0.017
+[2024.10.25-16.31.42:047][448]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/AmmoCount] ([2] browsable assets)...
+[2024.10.25-16.31.42:051][448]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/AmmoCount.AmmoCount]
+[2024.10.25-16.31.42:051][448]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/AmmoCount]
+[2024.10.25-16.31.42:058][448]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/AmmoCount_Auto1
+[2024.10.25-16.31.42:058][448]LogSavePackage: Moving '../../../../../../Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Saved/AmmoCount_Auto1505693D74E30AB400A482DB45885CC82.tmp' to '../../../../../../Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Saved/Autosaves/Game/UI/AmmoCount_Auto1.uasset'
+[2024.10.25-16.31.42:059][448]LogFileHelpers: Auto-saving content packages took 0.013
+[2024.10.25-16.33.14:141][811]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Weapon_Component.BP_Weapon_Component
+[2024.10.25-16.33.14:141][811]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-16.33.14:142][811]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-16.37.59:167][600]LogEditorTransaction: Undo Add Node
+[2024.10.25-16.42.26:448][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.10.25-16.42.26:449][756]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Main_Menu/Main_Menu' took 0.018
+[2024.10.25-16.42.26:449][756]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/AmmoCount] ([2] browsable assets)...
+[2024.10.25-16.42.26:452][756]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/AmmoCount.AmmoCount]
+[2024.10.25-16.42.26:452][756]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/AmmoCount]
+[2024.10.25-16.42.26:459][756]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/AmmoCount_Auto2
+[2024.10.25-16.42.26:459][756]LogSavePackage: Moving '../../../../../../Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Saved/AmmoCount_Auto2EB4E3270472FC9B083E7ABA35D18CA0D.tmp' to '../../../../../../Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Saved/Autosaves/Game/UI/AmmoCount_Auto2.uasset'
+[2024.10.25-16.42.26:460][756]LogFileHelpers: Auto-saving content packages took 0.011
+[2024.10.25-16.43.16:305][304]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-16.45.38:319][ 94]LogEditorTransaction: Undo Move Node
+[2024.10.25-16.45.38:650][103]LogEditorTransaction: Undo Change Number Pin Value
+[2024.10.25-16.45.39:297][152]LogEditorTransaction: Undo Add Node
+[2024.10.25-16.45.39:720][192]LogEditorTransaction: Undo Delete current selection
+[2024.10.25-16.50.26:060][167]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-16.51.42:343][357]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-16.52.00:058][887]BlueprintLog: New page: Compile AmmoCount
+[2024.10.25-16.52.00:063][887]LogBlueprint: Warning: [AssetLog] C:\Users\declanjm\Documents\GitHub\FA24-UrbanoC-McLaughlinD\McLaurbano\Content\UI\AmmoCount.uasset: [Compiler] 'BP First Person Character' does not inherit from 'Player Controller' ( Cast To BP_FirstPersonCharacter  would always fail).
+[2024.10.25-16.52.00:063][887]LogBlueprint: Error: [AssetLog] C:\Users\declanjm\Documents\GitHub\FA24-UrbanoC-McLaughlinD\McLaurbano\Content\UI\AmmoCount.uasset: [Compiler] This blueprint (self) is not a Button, therefore ' Target ' must have a connection.
+[2024.10.25-16.52.00:064][887]LogBlueprint: Error: [AssetLog] C:\Users\declanjm\Documents\GitHub\FA24-UrbanoC-McLaughlinD\McLaurbano\Content\UI\AmmoCount.uasset: [Compiler] This blueprint (self) is not a TextRenderComponent, therefore ' Target ' must have a connection.
+[2024.10.25-16.52.00:064][887]LogBlueprint: Error: [AssetLog] C:\Users\declanjm\Documents\GitHub\FA24-UrbanoC-McLaughlinD\McLaurbano\Content\UI\AmmoCount.uasset: [Compiler] This blueprint (self) is not a Button, therefore ' Target ' must have a connection.
+[2024.10.25-16.52.00:064][887]LogBlueprint: Error: [AssetLog] C:\Users\declanjm\Documents\GitHub\FA24-UrbanoC-McLaughlinD\McLaurbano\Content\UI\AmmoCount.uasset: [Compiler] This blueprint (self) is not a Button, therefore ' Target ' must have a connection.
+[2024.10.25-16.52.00:064][887]LogBlueprint: Error: [AssetLog] C:\Users\declanjm\Documents\GitHub\FA24-UrbanoC-McLaughlinD\McLaurbano\Content\UI\AmmoCount.uasset: [Compiler] Variable node  Set ColorAndOpacity  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2024.10.25-16.52.00:088][887]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.10.25-16.53.06:785][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.10.25-16.53.06:788][ 10]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Main_Menu/Main_Menu' took 0.017
+[2024.10.25-16.53.06:788][ 10]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/AmmoCount] ([2] browsable assets)...
+[2024.10.25-16.53.06:790][ 10]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/AmmoCount.AmmoCount]
+[2024.10.25-16.53.06:790][ 10]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/AmmoCount]
+[2024.10.25-16.53.06:798][ 10]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/AmmoCount_Auto3
+[2024.10.25-16.53.06:798][ 10]LogSavePackage: Moving '../../../../../../Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Saved/AmmoCount_Auto32775255144868089B3DE089975836C86.tmp' to '../../../../../../Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Saved/Autosaves/Game/UI/AmmoCount_Auto3.uasset'
+[2024.10.25-16.53.06:799][ 10]LogFileHelpers: Auto-saving content packages took 0.012
+[2024.10.25-16.54.08:121][849]LogEditorTransaction: Undo Create Pin Link
+[2024.10.25-16.54.08:391][858]LogEditorTransaction: Undo Create Pin Link
+[2024.10.25-16.54.08:632][866]LogEditorTransaction: Undo Delete current selection
+[2024.10.25-16.54.08:878][885]LogEditorTransaction: Undo Delete current selection
+[2024.10.25-16.54.09:167][908]LogEditorTransaction: Undo Delete current selection
+[2024.10.25-16.54.10:559][ 29]LogEditorTransaction: Undo Create Pin Link
+[2024.10.25-16.54.12:318][185]LogEditorTransaction: Undo Add In Parameter
+[2024.10.25-17.00.08:097][ 48]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-17.00.24:353][825]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-17.00.40:002][143]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-17.00.40:028][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AmmoCount" FILE="../../../../../../Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Content/UI/AmmoCount.uasset" SILENT=true
+[2024.10.25-17.00.40:035][143]LogSavePackage: Moving output files for package: /Game/UI/AmmoCount
+[2024.10.25-17.00.40:035][143]LogSavePackage: Moving '../../../../../../Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Saved/AmmoCount89C5B6F945898BDE21FFA9AD5485E575.tmp' to '../../../../../../Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Content/UI/AmmoCount.uasset'
+[2024.10.25-17.00.40:042][143]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 261 ms)
+[2024.10.25-17.00.40:044][143]AssetCheck: New page: Asset Save: AmmoCount
+[2024.10.25-17.00.40:044][143]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/AmmoCount.AmmoCount
+[2024.10.25-17.00.40:732][204]BlueprintLog: New page: Compile AmmoCount
+[2024.10.25-17.00.40:736][204]LogBlueprint: Warning: [AssetLog] C:\Users\declanjm\Documents\GitHub\FA24-UrbanoC-McLaughlinD\McLaurbano\Content\UI\AmmoCount.uasset: [Compiler] 'BP First Person Character' does not inherit from 'Player Controller' ( Cast To BP_FirstPersonCharacter  would always fail).
+[2024.10.25-17.00.40:760][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.10.25-17.01.13:942][236]BlueprintLog: New page: Compile AmmoCount
+[2024.10.25-17.01.13:946][236]LogBlueprint: Warning: [AssetLog] C:\Users\declanjm\Documents\GitHub\FA24-UrbanoC-McLaughlinD\McLaurbano\Content\UI\AmmoCount.uasset: [Compiler] 'BP First Person Character' does not inherit from 'Player Controller' ( Cast To BP_FirstPersonCharacter  would always fail).
+[2024.10.25-17.01.13:964][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.10.25-17.01.47:610][249]BlueprintLog: New page: Compile AmmoCount
+[2024.10.25-17.01.47:629][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.10.25-17.01.53:070][778]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.25-17.01.53:077][778]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.25-17.01.53:077][778]PIE: New page: PIE session: Main_Menu (Oct 25, 2024, 5:01:53 AM)
+[2024.10.25-17.01.53:114][778]LogPlayLevel: Display: Creating online subsystem for client :Context_34
+[2024.10.25-17.01.53:116][778]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.10.25-17.01.53:126][779]LogPlayLevel: Creating play world package: /Game/Levels/Main_Menu/UEDPIE_0_Main_Menu
+[2024.10.25-17.01.53:127][779]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001157s)
+[2024.10.25-17.01.53:127][779]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main_Menu/Main_Menu.Main_Menu to /Game/Levels/Main_Menu/UEDPIE_0_Main_Menu.Main_Menu (0.001232s)
+[2024.10.25-17.01.53:141][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.10.25-17.01.53:143][779]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-17.01.53:143][779]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-17.01.53:144][779]LogAIModule: Creating AISystem for world Main_Menu
+[2024.10.25-17.01.53:144][779]LogPlayLevel: PIE: World Init took: (0.001105s)
+[2024.10.25-17.01.53:144][779]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.10.25-17.01.53:144][779]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-17.01.53:144][779]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-17.01.53:144][779]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-17.01.53:144][779]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-17.01.53:144][779]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.25-17.01.53:144][779]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-17.01.53:144][779]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.25-17.01.53:144][779]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-17.01.53:145][779]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-17.01.53:145][779]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-17.01.53:145][779]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-17.01.53:146][779]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-17.01.53:165][779]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.10.25-17.01.53:166][779]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-17.01.53:166][779]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-17.01.53:166][779]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-17.01.53:167][779]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.10.25-17.01.53:167][779]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.10.25-17.01.53:168][779]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.10.25-17.01.53:168][779]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.10.25-17.01.53:168][779]LogInit: FAudioDevice initialized with ID 18.
+[2024.10.25-17.01.53:168][779]LogAudio: Display: Audio Device (ID: 18) registered with world 'Main_Menu'.
+[2024.10.25-17.01.53:168][779]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.10.25-17.01.53:172][779]LogLoad: Game class is 'Menu_Gamemode_C'
+[2024.10.25-17.01.53:172][779]LogWorld: Bringing World /Game/Levels/Main_Menu/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2024.10.25-11.01.53
+[2024.10.25-17.01.53:172][779]LogWorld: Bringing up level for play took: 0.000321
+[2024.10.25-17.01.53:175][779]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.10.25-17.01.53:175][779]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.10.25-17.01.53:175][779]PIE: Server logged in
+[2024.10.25-17.01.53:176][779]PIE: Play in editor total start time 0.099 seconds.
+[2024.10.25-17.01.53:743][839]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.10.25-17.01.53:743][839]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.10.25-17.01.53:744][839]LogNet: Browse: /Game/Levels/Level1/Level1
+[2024.10.25-17.01.53:744][839]LogLoad: LoadMap: /Game/Levels/Level1/Level1
+[2024.10.25-17.01.53:744][839]LogWorld: BeginTearingDown for /Game/Levels/Main_Menu/UEDPIE_0_Main_Menu
+[2024.10.25-17.01.53:745][839]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-17.01.53:745][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-17.01.53:797][839]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.25-17.01.53:799][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.10.25-17.01.53:809][839]LogAudio: Display: Audio Device (ID: 18) registered with world 'Level1'.
+[2024.10.25-17.01.53:809][839]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-17.01.53:809][839]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-17.01.53:810][839]LogAIModule: Creating AISystem for world Level1
+[2024.10.25-17.01.53:811][839]LogPlayLevel: PIE: World Init took: (0.001117s)
+[2024.10.25-17.01.53:811][839]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.25-17.01.53:813][839]LogWorld: Bringing World /Game/Levels/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.10.25-11.01.53
+[2024.10.25-17.01.53:813][839]LogWorld: Bringing up level for play took: 0.001974
+[2024.10.25-17.01.53:815][839]LogLoad: Took 0.070511 seconds to LoadMap(/Game/Levels/Level1/Level1)
+[2024.10.25-17.02.02:814][683]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-17.02.02:942][690]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-17.02.04:459][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-17.02.04:459][770]LogWorld: BeginTearingDown for /Game/Levels/Level1/UEDPIE_0_Level1
+[2024.10.25-17.02.04:460][770]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-17.02.04:461][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-17.02.04:464][770]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-17.02.04:469][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-17.02.04:483][770]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-17.02.04:483][770]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.10.25-17.02.04:483][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.10.25-17.02.04:484][770]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.10.25-17.02.04:494][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.10.25-17.02.04:555][772]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.10.25-17.02.33:836][791]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-17.02.59:112][631]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-17.03.04:664][812]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-17.03.17:550][374]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.25-17.04.17:787][431]LogEditorTransaction: Undo Move Node
+[2024.10.25-17.04.18:295][448]LogEditorTransaction: Undo Create Reroute Node
+[2024.10.25-17.04.43:810][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-17.04.43:841][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AmmoCount" FILE="../../../../../../Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Content/UI/AmmoCount.uasset" SILENT=true
+[2024.10.25-17.04.43:850][633]LogSavePackage: Moving output files for package: /Game/UI/AmmoCount
+[2024.10.25-17.04.43:850][633]LogSavePackage: Moving '../../../../../../Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Saved/AmmoCount8474DF0F49D3988CB1A074B1152C50AD.tmp' to '../../../../../../Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Content/UI/AmmoCount.uasset'
+[2024.10.25-17.04.43:856][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 307 ms)
+[2024.10.25-17.04.43:858][633]AssetCheck: New page: Asset Save: AmmoCount
+[2024.10.25-17.04.43:858][633]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/AmmoCount.AmmoCount
+[2024.10.25-17.04.44:538][693]BlueprintLog: New page: Compile AmmoCount
+[2024.10.25-17.04.44:564][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.10.25-17.04.46:910][922]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.25-17.04.46:918][922]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.25-17.04.46:918][922]PIE: New page: PIE session: Main_Menu (Oct 25, 2024, 5:04:46 AM)
+[2024.10.25-17.04.46:954][922]LogPlayLevel: Display: Creating online subsystem for client :Context_35
+[2024.10.25-17.04.46:956][922]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.10.25-17.04.46:965][923]LogPlayLevel: Creating play world package: /Game/Levels/Main_Menu/UEDPIE_0_Main_Menu
+[2024.10.25-17.04.46:966][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001144s)
+[2024.10.25-17.04.46:966][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main_Menu/Main_Menu.Main_Menu to /Game/Levels/Main_Menu/UEDPIE_0_Main_Menu.Main_Menu (0.001198s)
+[2024.10.25-17.04.46:979][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.10.25-17.04.46:981][923]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-17.04.46:981][923]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-17.04.46:981][923]LogAIModule: Creating AISystem for world Main_Menu
+[2024.10.25-17.04.46:982][923]LogPlayLevel: PIE: World Init took: (0.000919s)
+[2024.10.25-17.04.46:982][923]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.10.25-17.04.46:982][923]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-17.04.46:982][923]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-17.04.46:982][923]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-17.04.46:982][923]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-17.04.46:982][923]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.25-17.04.46:982][923]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-17.04.46:982][923]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.25-17.04.46:982][923]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-17.04.46:983][923]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-17.04.46:983][923]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-17.04.46:983][923]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-17.04.46:984][923]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-17.04.47:002][923]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.10.25-17.04.47:003][923]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-17.04.47:003][923]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-17.04.47:003][923]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-17.04.47:004][923]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.10.25-17.04.47:004][923]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.10.25-17.04.47:005][923]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.10.25-17.04.47:005][923]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.10.25-17.04.47:005][923]LogInit: FAudioDevice initialized with ID 19.
+[2024.10.25-17.04.47:005][923]LogAudio: Display: Audio Device (ID: 19) registered with world 'Main_Menu'.
+[2024.10.25-17.04.47:005][923]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.10.25-17.04.47:008][923]LogLoad: Game class is 'Menu_Gamemode_C'
+[2024.10.25-17.04.47:008][923]LogWorld: Bringing World /Game/Levels/Main_Menu/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2024.10.25-11.04.47
+[2024.10.25-17.04.47:009][923]LogWorld: Bringing up level for play took: 0.000364
+[2024.10.25-17.04.47:011][923]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.10.25-17.04.47:011][923]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.10.25-17.04.47:011][923]PIE: Server logged in
+[2024.10.25-17.04.47:012][923]PIE: Play in editor total start time 0.094 seconds.
+[2024.10.25-17.04.47:212][940]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.10.25-17.04.47:212][940]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.10.25-17.04.47:213][940]LogNet: Browse: /Game/Levels/Level1/Level1
+[2024.10.25-17.04.47:213][940]LogLoad: LoadMap: /Game/Levels/Level1/Level1
+[2024.10.25-17.04.47:213][940]LogWorld: BeginTearingDown for /Game/Levels/Main_Menu/UEDPIE_0_Main_Menu
+[2024.10.25-17.04.47:213][940]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-17.04.47:213][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-17.04.47:256][940]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.25-17.04.47:257][940]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.10.25-17.04.47:264][940]LogAudio: Display: Audio Device (ID: 19) registered with world 'Level1'.
+[2024.10.25-17.04.47:264][940]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-17.04.47:264][940]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-17.04.47:265][940]LogAIModule: Creating AISystem for world Level1
+[2024.10.25-17.04.47:265][940]LogPlayLevel: PIE: World Init took: (0.001044s)
+[2024.10.25-17.04.47:265][940]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.25-17.04.47:267][940]LogWorld: Bringing World /Game/Levels/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.10.25-11.04.47
+[2024.10.25-17.04.47:267][940]LogWorld: Bringing up level for play took: 0.002110
+[2024.10.25-17.04.47:270][940]LogLoad: Took 0.057235 seconds to LoadMap(/Game/Levels/Level1/Level1)
+[2024.10.25-17.04.57:981][912]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-17.04.58:173][922]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-17.04.58:349][931]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-17.04.58:526][940]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-17.04.58:665][947]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-17.04.58:830][955]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-17.04.58:992][963]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-17.04.59:161][971]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-17.04.59:940][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-17.04.59:940][  7]LogWorld: BeginTearingDown for /Game/Levels/Level1/UEDPIE_0_Level1
+[2024.10.25-17.04.59:940][  7]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-17.04.59:941][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-17.04.59:944][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-17.04.59:949][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-17.04.59:964][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-17.04.59:964][  7]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.10.25-17.04.59:964][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.10.25-17.04.59:966][  7]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.10.25-17.04.59:974][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.10.25-17.05.00:009][  8]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.10.25-17.05.29:272][463]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-17.05.29:303][463]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/AmmoCount" FILE="../../../../../../Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Content/UI/AmmoCount.uasset" SILENT=true
+[2024.10.25-17.05.29:312][463]LogSavePackage: Moving output files for package: /Game/UI/AmmoCount
+[2024.10.25-17.05.29:313][463]LogSavePackage: Moving '../../../../../../Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Saved/AmmoCount6D859872469BE232C6AB638A163388D2.tmp' to '../../../../../../Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Content/UI/AmmoCount.uasset'
+[2024.10.25-17.05.29:320][463]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 356 ms)
+[2024.10.25-17.05.29:321][463]AssetCheck: New page: Asset Save: AmmoCount
+[2024.10.25-17.05.29:321][463]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/AmmoCount.AmmoCount
+[2024.10.25-17.05.29:821][502]BlueprintLog: New page: Compile AmmoCount
+[2024.10.25-17.05.29:845][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.10.25-17.05.32:415][709]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-17.05.32:415][709]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-17.05.32:852][740]LogSlate: Window 'AmmoCount' being destroyed
+[2024.10.25-17.05.32:867][740]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-17.05.32:867][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-17.05.32:874][740]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-17.05.32:874][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-17.05.34:378][914]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.25-17.05.34:384][914]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.25-17.05.34:384][914]PIE: New page: PIE session: Main_Menu (Oct 25, 2024, 5:05:34 AM)
+[2024.10.25-17.05.34:424][914]LogPlayLevel: Display: Creating online subsystem for client :Context_36
+[2024.10.25-17.05.34:425][914]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.10.25-17.05.34:433][915]LogPlayLevel: Creating play world package: /Game/Levels/Main_Menu/UEDPIE_0_Main_Menu
+[2024.10.25-17.05.34:435][915]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001119s)
+[2024.10.25-17.05.34:435][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main_Menu/Main_Menu.Main_Menu to /Game/Levels/Main_Menu/UEDPIE_0_Main_Menu.Main_Menu (0.001171s)
+[2024.10.25-17.05.34:450][915]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.10.25-17.05.34:458][915]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-17.05.34:458][915]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-17.05.34:459][915]LogAIModule: Creating AISystem for world Main_Menu
+[2024.10.25-17.05.34:460][915]LogPlayLevel: PIE: World Init took: (0.001032s)
+[2024.10.25-17.05.34:460][915]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.10.25-17.05.34:460][915]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-17.05.34:460][915]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-17.05.34:460][915]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-17.05.34:460][915]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-17.05.34:460][915]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.25-17.05.34:460][915]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-17.05.34:460][915]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.25-17.05.34:460][915]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-17.05.34:461][915]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-17.05.34:461][915]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-17.05.34:461][915]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-17.05.34:462][915]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-17.05.34:479][915]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.10.25-17.05.34:479][915]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-17.05.34:479][915]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-17.05.34:479][915]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-17.05.34:480][915]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.10.25-17.05.34:480][915]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.10.25-17.05.34:482][915]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.10.25-17.05.34:482][915]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.10.25-17.05.34:482][915]LogInit: FAudioDevice initialized with ID 20.
+[2024.10.25-17.05.34:482][915]LogAudio: Display: Audio Device (ID: 20) registered with world 'Main_Menu'.
+[2024.10.25-17.05.34:482][915]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.10.25-17.05.34:484][915]LogLoad: Game class is 'Menu_Gamemode_C'
+[2024.10.25-17.05.34:485][915]LogWorld: Bringing World /Game/Levels/Main_Menu/UEDPIE_0_Main_Menu.Main_Menu up for play (max tick rate 0) at 2024.10.25-11.05.34
+[2024.10.25-17.05.34:485][915]LogWorld: Bringing up level for play took: 0.000323
+[2024.10.25-17.05.34:487][915]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2024.10.25-17.05.34:487][915]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2024.10.25-17.05.34:487][915]PIE: Server logged in
+[2024.10.25-17.05.34:488][915]PIE: Play in editor total start time 0.103 seconds.
+[2024.10.25-17.05.34:832][949]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2024.10.25-17.05.34:832][949]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2024.10.25-17.05.34:832][949]LogNet: Browse: /Game/Levels/Level1/Level1
+[2024.10.25-17.05.34:832][949]LogLoad: LoadMap: /Game/Levels/Level1/Level1
+[2024.10.25-17.05.34:832][949]LogWorld: BeginTearingDown for /Game/Levels/Main_Menu/UEDPIE_0_Main_Menu
+[2024.10.25-17.05.34:833][949]LogWorld: UWorld::CleanupWorld for Main_Menu, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-17.05.34:833][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-17.05.34:877][949]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.25-17.05.34:879][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.10.25-17.05.34:886][949]LogAudio: Display: Audio Device (ID: 20) registered with world 'Level1'.
+[2024.10.25-17.05.34:886][949]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-17.05.34:886][949]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-17.05.34:886][949]LogAIModule: Creating AISystem for world Level1
+[2024.10.25-17.05.34:887][949]LogPlayLevel: PIE: World Init took: (0.000948s)
+[2024.10.25-17.05.34:887][949]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.25-17.05.34:889][949]LogWorld: Bringing World /Game/Levels/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.10.25-11.05.34
+[2024.10.25-17.05.34:889][949]LogWorld: Bringing up level for play took: 0.001918
+[2024.10.25-17.05.34:890][949]LogLoad: Took 0.058071 seconds to LoadMap(/Game/Levels/Level1/Level1)
+[2024.10.25-17.05.43:696][767]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-17.05.43:854][776]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-17.05.44:065][788]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] RELOADING
+[2024.10.25-17.05.51:127][107]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-17.05.51:307][114]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-17.05.51:684][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-17.05.51:684][127]LogWorld: BeginTearingDown for /Game/Levels/Level1/UEDPIE_0_Level1
+[2024.10.25-17.05.51:685][127]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-17.05.51:685][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-17.05.51:688][127]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-17.05.51:693][127]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-17.05.51:708][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-17.05.51:708][127]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.10.25-17.05.51:708][127]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.10.25-17.05.51:710][127]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.10.25-17.05.51:721][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.10.25-17.05.51:755][128]LogPlayLevel: Display: Destroying online subsystem :Context_36
