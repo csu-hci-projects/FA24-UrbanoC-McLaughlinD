@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/chrisurbano/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
+				"/Users/chrisurbano/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Content/StarterContent/health/H_Heart.uasset",
+				"/Users/chrisurbano/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Content/FirstPerson/Blueprints/healthPickup.uasset",
+				"/Users/chrisurbano/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"/Users/chrisurbano/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Content/UI/HealthCount.uasset",
+				"/Users/chrisurbano/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Content/UI/AmmoCount.uasset",
+				"/Users/chrisurbano/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Content/Levels/Level1/Level1.umap",
 				"C:/Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Content/Levels/Main_Menu/MainMenuBackground.uasset",
 				"C:/Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Content/UI/Main_Menu.uasset",
 				"C:/Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
