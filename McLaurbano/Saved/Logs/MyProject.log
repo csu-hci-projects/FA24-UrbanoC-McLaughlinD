@@ -6622,6 +6622,9 @@ GroupActor0
 [2024.10.25-19.27.39:815][ 81]AssetCheck: New page: Asset Save: multiple assets
 [2024.10.25-19.27.39:815][ 81]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyAssets/ammoPickup.ammoPickup
 [2024.10.25-19.27.39:815][ 81]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile
+
+spike-trap
+=======
 [2024.10.25-19.38.18:556][331]Cmd: DUPLICATE
 [2024.10.25-19.38.18:556][331]Cmd: ACTOR DUPLICATE
 [2024.10.25-19.38.34:259][835]Cmd: DUPLICATE
