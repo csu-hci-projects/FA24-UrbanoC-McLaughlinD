@@ -6622,3 +6622,400 @@ GroupActor0
 [2024.10.25-19.27.39:815][ 81]AssetCheck: New page: Asset Save: multiple assets
 [2024.10.25-19.27.39:815][ 81]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyAssets/ammoPickup.ammoPickup
 [2024.10.25-19.27.39:815][ 81]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonProjectile.BP_FirstPersonProjectile
+
+spike-trap
+=======
+[2024.10.25-19.38.18:556][331]Cmd: DUPLICATE
+[2024.10.25-19.38.18:556][331]Cmd: ACTOR DUPLICATE
+[2024.10.25-19.38.34:259][835]Cmd: DUPLICATE
+[2024.10.25-19.38.34:259][835]Cmd: ACTOR DUPLICATE
+[2024.10.25-19.39.22:744][467]Cmd: DUPLICATE
+[2024.10.25-19.39.22:744][467]Cmd: ACTOR DUPLICATE
+[2024.10.25-19.40.31:402][750]Cmd: DUPLICATE
+[2024.10.25-19.40.31:402][750]Cmd: ACTOR DUPLICATE
+[2024.10.25-19.42.15:020][618]Cmd: DUPLICATE
+[2024.10.25-19.42.15:020][618]Cmd: ACTOR DUPLICATE
+[2024.10.25-19.42.48:913][917]Cmd: DUPLICATE
+[2024.10.25-19.42.48:913][917]Cmd: ACTOR DUPLICATE
+[2024.10.25-19.43.18:144][776]Cmd: DUPLICATE
+[2024.10.25-19.43.18:144][776]Cmd: ACTOR DUPLICATE
+[2024.10.25-19.44.26:550][538]Cmd: DUPLICATE
+[2024.10.25-19.44.26:550][538]Cmd: ACTOR DUPLICATE
+[2024.10.25-19.45.27:376][461]Cmd: DUPLICATE
+[2024.10.25-19.45.27:376][461]Cmd: ACTOR DUPLICATE
+[2024.10.25-19.46.24:145][752]Cmd: TRANSACTION UNDO
+[2024.10.25-19.46.24:145][752]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.25-19.46.24:636][768]Cmd: TRANSACTION UNDO
+[2024.10.25-19.46.24:636][768]LogEditorTransaction: Undo Set Scale
+[2024.10.25-19.46.25:043][801]Cmd: TRANSACTION UNDO
+[2024.10.25-19.46.25:043][801]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.25-19.46.25:413][829]Cmd: TRANSACTION UNDO
+[2024.10.25-19.46.25:413][829]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.25-19.46.25:801][858]Cmd: TRANSACTION UNDO
+[2024.10.25-19.46.25:801][858]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.25-19.46.26:156][881]Cmd: TRANSACTION UNDO
+[2024.10.25-19.46.26:156][881]LogEditorTransaction: Undo Clicking on Elements
+[2024.10.25-19.46.26:491][902]Cmd: TRANSACTION UNDO
+[2024.10.25-19.46.26:491][902]LogEditorTransaction: Undo Move Elements
+[2024.10.25-19.46.26:848][934]Cmd: TRANSACTION UNDO
+[2024.10.25-19.46.26:848][934]LogEditorTransaction: Undo Set Scale
+[2024.10.25-19.46.27:204][966]Cmd: TRANSACTION UNDO
+[2024.10.25-19.46.27:205][966]LogEditorTransaction: Undo Set Scale
+[2024.10.25-19.46.27:543][996]Cmd: TRANSACTION UNDO
+[2024.10.25-19.46.27:543][996]LogEditorTransaction: Undo Set Scale
+[2024.10.25-19.46.27:889][ 25]Cmd: TRANSACTION UNDO
+[2024.10.25-19.46.27:889][ 25]LogEditorTransaction: Undo Set Scale
+[2024.10.25-19.46.28:242][ 37]Cmd: TRANSACTION UNDO
+[2024.10.25-19.46.28:243][ 37]LogEditorTransaction: Undo Scale Elements
+[2024.10.25-19.46.28:620][ 63]Cmd: TRANSACTION UNDO
+[2024.10.25-19.46.28:620][ 63]LogEditorTransaction: Undo Scale Elements
+[2024.10.25-19.46.28:980][ 94]Cmd: TRANSACTION UNDO
+[2024.10.25-19.46.28:980][ 94]LogEditorTransaction: Undo Scale Elements
+[2024.10.25-19.46.29:394][130]Cmd: TRANSACTION UNDO
+[2024.10.25-19.46.29:394][130]LogEditorTransaction: Undo Scale Elements
+[2024.10.25-19.46.29:796][166]Cmd: TRANSACTION UNDO
+[2024.10.25-19.46.29:796][166]LogEditorTransaction: Undo Scale Elements
+[2024.10.25-19.47.08:324][819]Cmd: DUPLICATE
+[2024.10.25-19.47.08:324][819]Cmd: ACTOR DUPLICATE
+[2024.10.25-19.48.05:065][ 33]Cmd: DUPLICATE
+[2024.10.25-19.48.05:065][ 33]Cmd: ACTOR DUPLICATE
+[2024.10.25-19.50.39:084][306]LogViewport: Scene viewport resized to 2038x922, mode Windowed.
+[2024.10.25-19.50.39:103][307]LogViewport: Scene viewport resized to 2038x911, mode Windowed.
+[2024.10.25-19.50.39:134][308]LogViewport: Scene viewport resized to 2038x898, mode Windowed.
+[2024.10.25-19.50.39:179][309]LogViewport: Scene viewport resized to 2038x879, mode Windowed.
+[2024.10.25-19.50.39:227][310]LogViewport: Scene viewport resized to 2038x865, mode Windowed.
+[2024.10.25-19.50.39:273][311]LogViewport: Scene viewport resized to 2038x859, mode Windowed.
+[2024.10.25-19.50.39:320][312]LogViewport: Scene viewport resized to 2038x856, mode Windowed.
+[2024.10.25-19.50.39:497][326]LogViewport: Scene viewport resized to 2038x859, mode Windowed.
+[2024.10.25-19.50.39:517][327]LogViewport: Scene viewport resized to 2038x873, mode Windowed.
+[2024.10.25-19.50.39:543][328]LogViewport: Scene viewport resized to 2038x880, mode Windowed.
+[2024.10.25-19.50.39:569][329]LogViewport: Scene viewport resized to 2038x881, mode Windowed.
+[2024.10.25-19.50.39:595][330]LogViewport: Scene viewport resized to 2038x884, mode Windowed.
+[2024.10.25-19.50.39:627][331]LogViewport: Scene viewport resized to 2038x885, mode Windowed.
+[2024.10.25-19.50.39:651][332]LogViewport: Scene viewport resized to 2038x886, mode Windowed.
+[2024.10.25-19.50.39:680][333]LogViewport: Scene viewport resized to 2038x890, mode Windowed.
+[2024.10.25-19.50.39:699][334]LogViewport: Scene viewport resized to 2038x893, mode Windowed.
+[2024.10.25-19.50.39:729][335]LogViewport: Scene viewport resized to 2038x894, mode Windowed.
+[2024.10.25-19.50.39:758][336]LogViewport: Scene viewport resized to 2038x898, mode Windowed.
+[2024.10.25-19.50.39:777][337]LogViewport: Scene viewport resized to 2038x900, mode Windowed.
+[2024.10.25-19.50.39:808][338]LogViewport: Scene viewport resized to 2038x902, mode Windowed.
+[2024.10.25-19.51.12:544][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.10.25-19.51.12:576][397]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Level1/Level1_Auto0
+[2024.10.25-19.51.12:576][397]LogSavePackage: Moving '../../../../../../Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Saved/Level1_Auto09818E64A40DF52F2A337B283BC2B944F.tmp' to '../../../../../../Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Saved/Autosaves/Game/Levels/Level1/Level1_Auto0.umap'
+[2024.10.25-19.51.12:577][397]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Saved/Autosaves/Game/Levels/Level1/Level1_Auto0.umap is in the /Temp path, will not scan.
+[2024.10.25-19.51.12:577][397]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Levels/Level1/Level1_Auto0 is in the /Temp path, will not scan.
+[2024.10.25-19.51.12:577][397]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Levels/Level1/Level1_Auto0 is in the /Temp path, will not scan.
+[2024.10.25-19.51.12:577][397]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Level1/Level1' took 0.065
+[2024.10.25-19.51.12:577][397]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
+[2024.10.25-19.51.52:962][482]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-19.51.53:033][482]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.10.25-19.51.53:061][482]LogSavePackage: Moving output files for package: /Game/Levels/Level1/Level1
+[2024.10.25-19.51.53:062][482]LogSavePackage: Moving '../../../../../../Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Saved/Level1DEE2CA504496EA8C401EE0ADFF496433.tmp' to '../../../../../../Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Content/Levels/Level1/Level1.umap'
+[2024.10.25-19.51.53:069][482]LogFileHelpers: Saving map 'Level1' took 0.075
+[2024.10.25-19.51.53:079][482]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 5.46 sec)
+[2024.10.25-19.51.53:080][482]AssetCheck: New page: Asset Save: Level1
+[2024.10.25-19.51.53:080][482]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level1/Level1.Level1
+[2024.10.25-19.52.05:407][650]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.25-19.52.05:414][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.25-19.52.05:414][650]PIE: New page: PIE session: Level1 (Oct 25, 2024, 7:52:05 AM)
+[2024.10.25-19.52.05:414][650]LogPlayLevel: Display: Creating online subsystem for client :Context_104
+[2024.10.25-19.52.05:417][650]LogOnline: OSS: Created online subsystem instance for: :Context_104
+[2024.10.25-19.52.05:442][651]LogPlayLevel: Creating play world package: /Game/Levels/Level1/UEDPIE_0_Level1
+[2024.10.25-19.52.05:451][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008917s)
+[2024.10.25-19.52.05:451][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1/Level1.Level1 to /Game/Levels/Level1/UEDPIE_0_Level1.Level1 (0.008960s)
+[2024.10.25-19.52.05:464][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.10.25-19.52.05:467][651]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-19.52.05:467][651]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-19.52.05:468][651]LogAIModule: Creating AISystem for world Level1
+[2024.10.25-19.52.05:468][651]LogPlayLevel: PIE: World Init took: (0.001265s)
+[2024.10.25-19.52.05:468][651]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2024.10.25-19.52.05:468][651]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-19.52.05:468][651]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-19.52.05:469][651]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-19.52.05:469][651]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-19.52.05:469][651]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.25-19.52.05:469][651]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-19.52.05:469][651]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.25-19.52.05:469][651]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-19.52.05:469][651]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-19.52.05:469][651]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-19.52.05:469][651]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-19.52.05:471][651]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-19.52.05:492][651]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.10.25-19.52.05:492][651]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-19.52.05:492][651]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-19.52.05:492][651]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-19.52.05:493][651]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=54
+[2024.10.25-19.52.05:493][651]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=54
+[2024.10.25-19.52.05:495][651]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=54
+[2024.10.25-19.52.05:495][651]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=54
+[2024.10.25-19.52.05:495][651]LogInit: FAudioDevice initialized with ID 54.
+[2024.10.25-19.52.05:495][651]LogAudio: Display: Audio Device (ID: 54) registered with world 'Level1'.
+[2024.10.25-19.52.05:495][651]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 54
+[2024.10.25-19.52.05:498][651]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.25-19.52.05:504][651]LogWorld: Bringing World /Game/Levels/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.10.25-13.52.05
+[2024.10.25-19.52.05:504][651]LogWorld: Bringing up level for play took: 0.005417
+[2024.10.25-19.52.05:506][651]PIE: Server logged in
+[2024.10.25-19.52.05:507][651]PIE: Play in editor total start time 0.093 seconds.
+[2024.10.25-19.52.14:422][507]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] RELOADING
+[2024.10.25-19.53.01:812][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-19.53.01:812][634]LogWorld: BeginTearingDown for /Game/Levels/Level1/UEDPIE_0_Level1
+[2024.10.25-19.53.01:814][634]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-19.53.01:815][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-19.53.01:825][634]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-19.53.01:833][634]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-19.53.01:851][634]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.25-19.53.01:857][634]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 54
+[2024.10.25-19.53.01:857][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2024.10.25-19.53.01:859][634]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2024.10.25-19.53.01:862][634]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-19.53.01:879][634]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.10.25-19.53.01:955][635]LogPlayLevel: Display: Destroying online subsystem :Context_104
+[2024.10.25-19.53.06:678][ 88]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.53.06:678][ 88]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.53.06:680][ 88]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_14
+[2024.10.25-19.53.06:682][ 88]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_14
+[2024.10.25-19.53.09:262][306]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.53.09:262][306]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.53.09:264][306]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_15
+[2024.10.25-19.53.09:265][306]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_15
+[2024.10.25-19.53.12:286][574]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.53.12:286][574]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.53.12:288][574]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_4
+[2024.10.25-19.53.12:289][574]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_4
+[2024.10.25-19.53.13:243][646]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.53.13:243][646]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.53.13:245][646]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_5
+[2024.10.25-19.53.13:246][646]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_5
+[2024.10.25-19.53.15:190][819]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.53.15:190][819]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.53.15:192][819]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_6
+[2024.10.25-19.53.15:193][819]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_6
+[2024.10.25-19.53.16:757][937]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.53.16:757][937]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.53.16:759][937]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_7
+[2024.10.25-19.53.16:761][937]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_7
+[2024.10.25-19.53.20:070][245]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.53.20:070][245]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.53.20:071][245]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_16
+[2024.10.25-19.53.20:072][245]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_16
+[2024.10.25-19.53.21:001][311]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.53.21:001][311]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.53.21:003][311]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_17
+[2024.10.25-19.53.21:004][311]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_17
+[2024.10.25-19.53.22:359][416]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.53.22:359][416]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.53.22:361][416]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_18
+[2024.10.25-19.53.22:362][416]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_18
+[2024.10.25-19.53.23:389][481]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.53.23:389][481]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.53.23:391][481]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_19
+[2024.10.25-19.53.23:392][481]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_19
+[2024.10.25-19.53.24:323][553]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.53.24:323][553]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.53.24:324][553]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_20
+[2024.10.25-19.53.24:325][553]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_20
+[2024.10.25-19.53.25:144][600]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.53.25:144][600]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.53.25:146][600]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_21
+[2024.10.25-19.53.25:147][600]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_21
+[2024.10.25-19.53.26:073][669]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.53.26:073][669]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.53.26:075][669]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_22
+[2024.10.25-19.53.26:076][669]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_22
+[2024.10.25-19.53.26:802][708]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.53.26:802][708]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.53.26:805][708]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_23
+[2024.10.25-19.53.26:806][708]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_23
+[2024.10.25-19.53.27:568][770]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.53.27:568][770]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.53.27:570][770]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_8
+[2024.10.25-19.53.27:571][770]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_8
+[2024.10.25-19.53.28:361][817]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.53.28:361][817]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.53.28:364][817]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_9
+[2024.10.25-19.53.28:365][817]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_9
+[2024.10.25-19.53.29:138][867]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.53.29:138][867]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.53.29:140][867]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_10
+[2024.10.25-19.53.29:141][867]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_10
+[2024.10.25-19.53.29:966][914]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.53.29:966][914]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.53.29:969][914]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_11
+[2024.10.25-19.53.29:971][914]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_11
+[2024.10.25-19.53.41:841][965]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.53.41:841][965]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.53.41:843][965]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_12
+[2024.10.25-19.53.41:844][965]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_12
+[2024.10.25-19.53.42:877][ 37]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.53.42:877][ 37]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.53.42:879][ 37]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_13
+[2024.10.25-19.53.42:880][ 37]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_13
+[2024.10.25-19.53.50:604][667]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.53.50:604][667]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.53.50:606][667]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_24
+[2024.10.25-19.53.50:606][667]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_24
+[2024.10.25-19.53.51:697][740]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.53.51:697][740]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.53.51:699][740]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_25
+[2024.10.25-19.53.51:701][740]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_25
+[2024.10.25-19.53.58:856][492]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.53.58:856][492]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.53.58:858][492]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_14
+[2024.10.25-19.53.58:859][492]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_14
+[2024.10.25-19.53.59:378][516]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.53.59:378][516]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.53.59:381][516]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_15
+[2024.10.25-19.53.59:382][516]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_15
+[2024.10.25-19.54.01:201][661]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.54.01:201][661]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.54.01:202][661]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_26
+[2024.10.25-19.54.01:204][661]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_26
+[2024.10.25-19.54.02:239][727]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.54.02:239][727]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.54.02:241][727]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_27
+[2024.10.25-19.54.02:242][727]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_27
+[2024.10.25-19.54.13:987][975]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.54.13:987][975]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.54.13:989][975]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_28
+[2024.10.25-19.54.13:990][975]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_28
+[2024.10.25-19.54.14:439][ 10]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.54.14:439][ 10]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.54.14:441][ 10]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_29
+[2024.10.25-19.54.14:442][ 10]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_29
+[2024.10.25-19.54.18:875][464]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.54.18:875][464]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.54.18:877][464]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_16
+[2024.10.25-19.54.18:878][464]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_16
+[2024.10.25-19.54.19:835][532]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.54.19:835][532]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.54.19:838][532]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_17
+[2024.10.25-19.54.19:839][532]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_17
+[2024.10.25-19.54.24:045][923]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.54.24:045][923]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.54.24:047][923]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_30
+[2024.10.25-19.54.24:048][923]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_30
+[2024.10.25-19.54.25:441][ 25]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.54.25:442][ 25]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.54.25:444][ 25]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_31
+[2024.10.25-19.54.25:446][ 25]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_31
+[2024.10.25-19.54.30:628][539]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.54.30:628][539]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.54.30:630][539]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_18
+[2024.10.25-19.54.30:631][539]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_18
+[2024.10.25-19.54.31:899][631]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.54.31:899][631]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.54.31:902][631]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_19
+[2024.10.25-19.54.31:903][631]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_19
+[2024.10.25-19.54.42:973][802]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.54.42:973][802]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.54.42:975][802]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_32
+[2024.10.25-19.54.42:976][802]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_32
+[2024.10.25-19.54.44:089][871]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.54.44:089][871]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.54.44:092][871]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_33
+[2024.10.25-19.54.44:093][871]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_33
+[2024.10.25-19.54.47:197][178]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.54.47:197][178]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.54.47:199][178]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_20
+[2024.10.25-19.54.47:199][178]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_20
+[2024.10.25-19.54.48:460][265]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.54.48:460][265]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.54.48:462][265]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_21
+[2024.10.25-19.54.48:464][265]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_21
+[2024.10.25-19.54.58:485][331]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.54.58:485][331]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.54.58:486][331]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_34
+[2024.10.25-19.54.58:488][331]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_34
+[2024.10.25-19.54.59:260][378]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.54.59:260][378]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.54.59:262][378]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_35
+[2024.10.25-19.54.59:264][378]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_35
+[2024.10.25-19.55.08:681][370]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.55.08:681][370]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.55.08:682][370]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_22
+[2024.10.25-19.55.08:683][370]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_22
+[2024.10.25-19.55.09:414][409]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.55.09:414][409]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/ammoPickup.ammoPickup_C
+[2024.10.25-19.55.09:417][409]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_23
+[2024.10.25-19.55.09:417][409]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/ammoPickup.ammoPickup as actor: ammoPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.ammoPickup_C_23
+[2024.10.25-19.55.13:245][770]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.55.13:245][770]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.55.13:246][770]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_36
+[2024.10.25-19.55.13:248][770]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_36
+[2024.10.25-19.55.14:685][869]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.55.14:685][869]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyAssets/healthPickup.healthPickup_C
+[2024.10.25-19.55.14:688][869]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_37
+[2024.10.25-19.55.14:689][869]LogActorFactory: Actor Factory spawned Blueprint /Game/MyAssets/healthPickup.healthPickup as actor: healthPickup_C /Game/Levels/Level1/Level1.Level1:PersistentLevel.healthPickup_C_37
+[2024.10.25-19.55.18:951][287]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.25-19.55.18:958][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.25-19.55.18:958][287]PIE: New page: PIE session: Level1 (Oct 25, 2024, 7:55:18 AM)
+[2024.10.25-19.55.18:958][287]LogPlayLevel: Display: Creating online subsystem for client :Context_105
+[2024.10.25-19.55.18:960][287]LogOnline: OSS: Created online subsystem instance for: :Context_105
+[2024.10.25-19.55.18:983][288]LogPlayLevel: Creating play world package: /Game/Levels/Level1/UEDPIE_0_Level1
+[2024.10.25-19.55.18:997][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012237s)
+[2024.10.25-19.55.18:997][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Level1/Level1.Level1 to /Game/Levels/Level1/UEDPIE_0_Level1.Level1 (0.012283s)
+[2024.10.25-19.55.19:025][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.10.25-19.55.19:032][288]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.10.25-19.55.19:033][288]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.25-19.55.19:033][288]LogAIModule: Creating AISystem for world Level1
+[2024.10.25-19.55.19:034][288]LogPlayLevel: PIE: World Init took: (0.001152s)
+[2024.10.25-19.55.19:034][288]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2024.10.25-19.55.19:034][288]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.25-19.55.19:034][288]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.25-19.55.19:034][288]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.25-19.55.19:034][288]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.25-19.55.19:034][288]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.25-19.55.19:034][288]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.25-19.55.19:034][288]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.25-19.55.19:034][288]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.25-19.55.19:034][288]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.25-19.55.19:034][288]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.25-19.55.19:034][288]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.25-19.55.19:036][288]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.25-19.55.19:054][288]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Oculus Virtual Audio Device)
+[2024.10.25-19.55.19:054][288]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.25-19.55.19:054][288]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.25-19.55.19:054][288]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.25-19.55.19:055][288]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2024.10.25-19.55.19:055][288]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=55
+[2024.10.25-19.55.19:057][288]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2024.10.25-19.55.19:057][288]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2024.10.25-19.55.19:057][288]LogInit: FAudioDevice initialized with ID 55.
+[2024.10.25-19.55.19:057][288]LogAudio: Display: Audio Device (ID: 55) registered with world 'Level1'.
+[2024.10.25-19.55.19:057][288]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 55
+[2024.10.25-19.55.19:061][288]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.10.25-19.55.19:067][288]LogWorld: Bringing World /Game/Levels/Level1/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2024.10.25-13.55.19
+[2024.10.25-19.55.19:067][288]LogWorld: Bringing up level for play took: 0.006128
+[2024.10.25-19.55.19:069][288]PIE: Server logged in
+[2024.10.25-19.55.19:070][288]PIE: Play in editor total start time 0.113 seconds.
+[2024.10.25-19.55.35:408][554]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 90.0
+[2024.10.25-19.55.43:821][791]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-19.55.45:821][841]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] OUT OF AMMO
+[2024.10.25-19.55.51:672][973]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 90.0
+[2024.10.25-19.55.51:850][977]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 80.0
+[2024.10.25-19.55.51:987][980]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 70.0
+[2024.10.25-19.55.52:122][983]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 60.0
+[2024.10.25-19.55.52:304][987]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 50.0
+[2024.10.25-19.55.52:440][990]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_0] 40.0
+[2024.10.25-19.56.14:033][386]LogBlueprintUserMessages: [NODE_AddBP_Weapon_Component-0] RELOADING
+[2024.10.25-19.56.14:835][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-19.56.14:835][398]LogWorld: BeginTearingDown for /Game/Levels/Level1/UEDPIE_0_Level1
+[2024.10.25-19.56.14:836][398]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2024.10.25-19.56.14:837][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-19.56.14:842][398]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.25-19.56.14:850][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.25-19.56.14:870][398]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.25-19.56.14:877][398]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 55
+[2024.10.25-19.56.14:877][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2024.10.25-19.56.14:879][398]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2024.10.25-19.56.14:899][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.10.25-19.56.14:959][399]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2024.10.25-19.56.21:657][112]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.10.25-19.56.21:723][112]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.10.25-19.56.21:760][112]LogSavePackage: Moving output files for package: /Game/Levels/Level1/Level1
+[2024.10.25-19.56.21:760][112]LogSavePackage: Moving '../../../../../../Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Saved/Level1E7A79887428C1A9782EF50B8F3009E63.tmp' to '../../../../../../Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/McLaurbano/Content/Levels/Level1/Level1.umap'
+[2024.10.25-19.56.21:767][112]LogFileHelpers: Saving map 'Level1' took 0.081
+[2024.10.25-19.56.21:775][112]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 5.58 sec)
+[2024.10.25-19.56.21:778][112]AssetCheck: New page: Asset Save: Level1
+[2024.10.25-19.56.21:778][112]LogContentValidation: Display: Validating /Script/Engine.World /Game/Levels/Level1/Level1.Level1
