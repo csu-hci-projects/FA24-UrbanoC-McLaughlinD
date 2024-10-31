@@ -1,3 +1,14 @@
+# These folders frequently cause merge conflicts
+/McLaurbano/Config/
+/McLaurbano/DerivedDataCache/
+/McLaurbano/Intermediate/
+/McLaurbano/Saved/
+
+# Ignore all .log and .ini files in /McLaurbano and its subdirectories
+/McLaurbano/**/*.log
+/McLaurbano/**/*.ini
+
+
 # Visual Studio 2015 user specific files
 .vs/
 
