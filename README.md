@@ -37,7 +37,7 @@ Christopher Urbano
 - Ammo Pick-Up
 - Hazard Spike Trap
 - ReadMe
-- Short Video [Watch here](https://www.youtube.com/watch?v=RoG_qVfdrwc)
+- Short Video [Watch here](https://www.youtube.com/watch?v=9tKuMeQ-3YY)
 
 ## References
 - **Spike Trap**: [Watch here](https://youtu.be/l3mNkcY4I8g?si=osJFP7ulUxPI-2l3)
