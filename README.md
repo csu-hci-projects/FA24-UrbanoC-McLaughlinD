@@ -1,3 +1,6 @@
+Declan McLaughlin
+Christopher Urbano
+
 # Project Documentation
 
 ## How The Application Works
@@ -24,7 +27,7 @@
 - Ammo System
 - Targets
 - Targets Remaining UI
-- Long YouTube Video Blueprint Demonstration
+- Long YouTube Video Blueprint Demonstration [Watch here](https://www.youtube.com/watch?v=RoG_qVfdrwc)
 
 ### Christopher Urbano
 - Built the Second Level
@@ -34,7 +37,7 @@
 - Ammo Pick-Up
 - Hazard Spike Trap
 - ReadMe
-- Short Video [Watch here](https://www.youtube.com/watch?v=9tKuMeQ-3YY)
+- Short Video [Watch here](https://www.youtube.com/watch?v=RoG_qVfdrwc)
 
 ## References
 - **Spike Trap**: [Watch here](https://youtu.be/l3mNkcY4I8g?si=osJFP7ulUxPI-2l3)
