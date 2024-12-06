@@ -20,7 +20,7 @@
 - Ammo UI
 - Ammo System
 - Long YouTube Video Blueprint Demonstration [Watch here](https://www.youtube.com/watch?v=6e-uzhGOCj0)
-- Short Video Game Demonstration [Watch here](https://www.youtube.com/watch?v=A1a--DF7J5w)
+- Short Video Game Demonstration [Watch here](https://www.youtube.com/watch?v=Pv6xp5OHg_c)
 
 ### Christopher Urbano
 - Built the WIN Level
