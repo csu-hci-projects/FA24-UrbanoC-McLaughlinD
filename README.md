@@ -1,5 +1,5 @@
-###Declan McLaughlin
-###Christopher Urbano
+### Declan McLaughlin
+### Christopher Urbano
 
 # Project Documentation
 
