@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/HW2/VR_Lab/Content/MyLevels/Game.umap",
+				"C:/Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/HW2/VR_Lab/Content/MyBlueprints/AmmoPistol.uasset",
+				"C:/Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/HW2/VR_Lab/Content/MyBlueprints/VR_Target.uasset",
+				"C:/Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/HW2/VR_Lab/Content/MyLevels/WIN.umap",
+				"C:/Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/HW2/VR_Lab/Content/MyBlueprints/YOU_WIN.uasset",
+				"C:/Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/HW2/VR_Lab/Content/MyBlueprints/WIN_BOX.uasset",
+				"C:/Users/declanjm/Documents/GitHub/FA24-UrbanoC-McLaughlinD/HW2/VR_Lab/Content/MyLevels/Level1.umap",
 				"C:/Users/declanjm/Documents/Unreal Projects/VR_Lab/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/declanjm/Documents/Unreal Projects/VR_Lab/Content/MyLevels/Level1.umap",
 				"C:/Users/declanjm/Documents/Unreal Projects/VR_Lab/Content/MyBlueprints/VR_Target.uasset",
