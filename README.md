@@ -1,6 +1,3 @@
-### Declan McLaughlin
-### Christopher Urbano
-
 # Project Documentation
 
 ## How The Application Works
