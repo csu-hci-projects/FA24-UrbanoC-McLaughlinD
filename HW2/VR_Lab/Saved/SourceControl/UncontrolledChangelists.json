@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/declanjm/Documents/Unreal Projects/VR_Lab/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/declanjm/Documents/Unreal Projects/VR_Lab/Content/MyLevels/Level1.umap",
+				"C:/Users/declanjm/Documents/Unreal Projects/VR_Lab/Content/MyBlueprints/VR_Target.uasset",
+				"C:/Users/declanjm/Documents/Unreal Projects/VR_Lab/Content/MyBlueprints/AmmoPistol.uasset",
+				"C:/Users/declanjm/Documents/Unreal Projects/VR_Lab/Content/VRTemplate/Input/IMC_Weapon_Right.uasset",
+				"C:/Users/declanjm/Documents/Unreal Projects/VR_Lab/Content/MyBlueprints/IA_Reload_Right.uasset",
+				"C:/Users/declanjm/Documents/Unreal Projects/VR_Lab/Content/VRTemplate/Input/IMC_Weapon_Left.uasset",
+				"C:/Users/declanjm/Documents/Unreal Projects/VR_Lab/Content/MyBlueprints/IA_Reload_Left.uasset"
+			]
+		}
+	]
+}
